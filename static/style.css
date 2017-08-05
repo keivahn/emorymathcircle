@@ -237,6 +237,14 @@ input[type=submit] {
   opacity: 0.8;
 }
 
+.footer a{
+  font-size: 9pt;
+}
+
+.footer {
+  font-size: 9pt;
+}
+
 html, body {
   height: 90%;
 }
